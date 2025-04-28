@@ -12,9 +12,10 @@ This project implements a horse race simulation with both textual and graphical 
    - For Part 2: `cd Part2; javac --module-path /path/to/javafx/lib --add-modules javafx.controls *.java`
 
 ## Running the Textual Version
-- Navigate to `Part1/`.
-- Run: `java Race`
+- Navigate to `Part1/`.  cd Part1
+- Run: `java Race` 
 - The simulation will display a command-line race with horses moving and a winner announced.
+- 
 
 ## Running the Graphical Version
 - Navigate to `Part2/`.
